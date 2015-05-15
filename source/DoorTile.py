@@ -1,0 +1,2 @@
+class DoorTile(BasicTile):
+	pass

@@ -1,0 +1,2 @@
+class BlockTile(BasicTile):
+	pass

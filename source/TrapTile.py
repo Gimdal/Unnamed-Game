@@ -1,0 +1,2 @@
+class TrapTile(BasicTile):
+	pass

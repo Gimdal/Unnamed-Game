@@ -1,0 +1,2 @@
+class StairTile(BasicTile):
+	pass
